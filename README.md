@@ -16,4 +16,4 @@ If you are trying to run this example, there will be some missing files and runt
 Users should be able to implement the rest of part by themselves.
 
 ## Test Bench Diagram
-![uart_tb_diagram](https://github.com/WeiChungWu/UVM_UART_Example/tree/master/tb/uart_tb_diagram.png)
+![uart_tb_diagram](https://github.com/WeiChungWu/UVM_UART_Example/raw/master/tb/uart_tb_diagram.png)
